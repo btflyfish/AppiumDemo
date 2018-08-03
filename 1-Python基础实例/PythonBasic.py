@@ -1,0 +1,46 @@
+a='ABC'
+b=a
+a="XYZ"
+print(a,b)
+print("演示除法两种用法，10/3结果是",10/3,",10//3结果是：",10//3,"10%3结果是：",10%3)
+n=123
+f=456.789
+s1="Hello,World"
+s2='Hello,\'Adam\''
+#在Python的string前面加上r， 是为了告诉编译器这个string是个raw string，不要转意 '\' 。
+s3=r'Hello,"Bart"'
+s4=r'''Hello,Lisa!'''
+print('依次输出n,f,s1,s2,s3,s4的值')
+print(n,f,s1,s2,s3,s4)
+print("输出ord函数和chr函数的值")
+print(ord('A'),ord("程"),chr(65),chr(25991))
+print("输出encode函数和decode函数的值")
+#encode将指定的字符转换为指定的编码，decode将编码按照编码规则转换为指定的字符
+print('中文'.encode('utf-8'),'abc'.encode('ascii'),b'ABC'.decode('ascii'),b'\xe4\xb8\xad\xe6\x96\x87'.decode('utf-8'))
+#Python和C格式化相同
+print('%2d-%3d'%(3,40))
+print('%.2f'%3.14159)
+print('Hello%s'%'world')
+print('Hello %s,You have $%d'%('Simon',10000))
+#format函数的使用
+print('Hello {0},You have ${1:.2f}'.format('Simon',5876.987))
+print('测试List使用')
+classmates=['Simon','Robert','Tom']
+print(classmates[0],classmates[1],len(classmates))
+#两种不同的方法Append和Insert添加列表元素
+classmates.append('Mary')
+classmates.insert(1,'Jack')
+#Pop方法移除元素
+classmates.pop()
+classmates.pop(2)
+print(classmates[0],classmates[1],len(classmates))
+classmates[0]='Mike'
+#List可以容纳不同的数据类型
+classmates.append(456)
+classmates.insert(3,['Name','Age'])
+print(classmates[0],classmates[3],len(classmates))
+print('测试tuple使用')
+classmates=('Simon','Robert','Tom')
+print(classmates[0],classmates[1],len(classmates))
+L=[['Apple','Google','Microsoft'],['C#','Python','JAVA','PHP'],['Adam','Bart','Lisa']]
+print(L[0][0],L[1][1],L[2][2])

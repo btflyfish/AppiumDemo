@@ -1,0 +1,23 @@
+print('dict的使用')
+d={'simon':95,'Mary':85,'Tom':70}
+print(d['simon'])
+d['Mary']=90
+print(d['Mary'])
+print('set的使用')
+s=set([1,2,3])
+s.add(4)
+s.add(5)
+s.remove(3)
+for s1 in s:
+    print(s1)
+s1=set([1,2,3])
+s2=set([2,3,4])
+print('s1和s2的交集或者并集的操作')
+print(s1&s2)
+print(s1|s2)
+print('演示可变对象和不可变对象')
+a=['simon','mary','tom']
+a.sort()
+print(a)
+b='Python'
+print(b.replace('P','p'),b)
