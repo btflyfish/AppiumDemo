@@ -1,0 +1,76 @@
+{
+  "uid" : "e66c167cb75ed2af",
+  "name" : "test_ABCByClass.test_b",
+  "fullName" : "test_ABC.test_ABCByClass.test_b",
+  "historyId" : "8fa980fce09ba751ec0fa1f47f1486e7",
+  "time" : {
+    "start" : 1533216055865,
+    "stop" : 1533216055866,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "db4b4df457b670cb",
+      "name" : "描述",
+      "source" : "db4b4df457b670cb.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "1JH32W2X7UE9PLP"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9680-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_ABC"
+  }, {
+    "name" : "testClass",
+    "value" : "test_ABC"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ABCByClass.test_b"
+  }, {
+    "name" : "package",
+    "value" : "test_ABC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e66c167cb75ed2af.json",
+  "parameterValues" : [ ]
+}

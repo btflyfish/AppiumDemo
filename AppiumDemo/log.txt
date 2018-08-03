@@ -1,0 +1,7 @@
+. scripts/test_ABC.py::TestABC::()::test_a
+. scripts/test_ABC.py::TestABC::()::test_b
+. scripts/test_SetupClass.py::TestABC::()::test_a
+. scripts/test_SetupClass.py::TestABC::()::test_b
+. scripts/test_pytest.py::test_a
+. scripts/test_pytest.py::test_b
+. scripts/test_sample.py::test_answer

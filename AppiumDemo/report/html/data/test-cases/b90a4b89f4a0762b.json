@@ -1,0 +1,91 @@
+{
+  "uid" : "b90a4b89f4a0762b",
+  "name" : "test_ABC.test_b",
+  "fullName" : "test_SetupClass.test_ABC.test_b",
+  "historyId" : "20c11f2565faf475425e2d89f9d2f872",
+  "time" : {
+    "start" : 1533216055874,
+    "stop" : 1533216055876,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试函数级setup和teardown",
+      "time" : {
+        "start" : 1533216055875,
+        "stop" : 1533216055875,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "c3d4cbfbf0cd4f77",
+      "name" : "描述",
+      "source" : "c3d4cbfbf0cd4f77.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "1JH32W2X7UE9PLP"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9680-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_SetupClass"
+  }, {
+    "name" : "testClass",
+    "value" : "test_SetupClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ABC.test_b"
+  }, {
+    "name" : "package",
+    "value" : "test_SetupClass"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b90a4b89f4a0762b.json",
+  "parameterValues" : [ ]
+}

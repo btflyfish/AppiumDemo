@@ -1,0 +1,48 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1533216055867" stop="1533216055876">
+  <name>test_SetupClass</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1533216055867" status="passed" stop="1533216055873">
+      <name>test_ABC.test_a</name>
+      <attachments>
+        <attachment source="6fc25f3f-0b7f-4d9d-ba0e-0b11a79860b0-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9680-MainThread"/>
+        <label name="host" value="1JH32W2X7UE9PLP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1533216055872" status="passed" stop="1533216055872">
+          <name>测试函数级setup和teardown</name>
+          <title>测试函数级setup和teardown</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1533216055874" status="passed" stop="1533216055876">
+      <name>test_ABC.test_b</name>
+      <attachments>
+        <attachment source="fab8c238-c2c0-410c-b26f-c0be0a463421-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9680-MainThread"/>
+        <label name="host" value="1JH32W2X7UE9PLP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1533216055875" status="passed" stop="1533216055875">
+          <name>测试函数级setup和teardown</name>
+          <title>测试函数级setup和teardown</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

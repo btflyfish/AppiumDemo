@@ -1,0 +1,41 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1533216055854" stop="1533216055866">
+  <name>test_ABC</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1533216055854" status="passed" stop="1533216055864">
+      <name>test_ABCByClass.test_a</name>
+      <attachments>
+        <attachment source="662a14c1-2618-41fd-adb3-b6fdd9b3bd80-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="9680-MainThread"/>
+        <label name="host" value="1JH32W2X7UE9PLP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1533216055863" status="passed" stop="1533216055863">
+          <name>测试类级setup和teardown</name>
+          <title>测试类级setup和teardown</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1533216055865" status="passed" stop="1533216055866">
+      <name>test_ABCByClass.test_b</name>
+      <attachments>
+        <attachment source="adb2d8b7-86b4-4c91-9157-c4e0c6bae25b-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9680-MainThread"/>
+        <label name="host" value="1JH32W2X7UE9PLP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

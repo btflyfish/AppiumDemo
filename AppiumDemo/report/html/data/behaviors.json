@@ -1,0 +1,89 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_ABCByClass.test_a",
+    "uid" : "3af4a52992dda5b7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055854,
+      "stop" : 1533216055864,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_ABCByClass.test_b",
+    "uid" : "e66c167cb75ed2af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055865,
+      "stop" : 1533216055866,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_ABC.test_a",
+    "uid" : "f097aba2a6ddb38c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055867,
+      "stop" : 1533216055873,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_ABC.test_b",
+    "uid" : "b90a4b89f4a0762b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055874,
+      "stop" : 1533216055876,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_a",
+    "uid" : "92a412ebe096c184",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055878,
+      "stop" : 1533216055883,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_b",
+    "uid" : "bec412c134f8bbf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055883,
+      "stop" : 1533216055884,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_answer",
+    "uid" : "75b0526af98b5a30",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1533216055885,
+      "stop" : 1533216055893,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

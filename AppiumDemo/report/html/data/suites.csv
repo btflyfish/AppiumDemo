@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_pytest.test_a","5",""
+"passed","test_sample.test_answer","8",""
+"passed","test_pytest.test_b","1",""
+"passed","test_ABC.test_ABCByClass.test_b","1",""
+"passed","test_SetupClass.test_ABC.test_b","2",""
+"passed","test_ABC.test_ABCByClass.test_a","10",""
+"passed","test_SetupClass.test_ABC.test_a","6",""
