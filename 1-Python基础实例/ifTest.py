@@ -5,7 +5,7 @@ height=int(input())
 bmi=round((weight*10000)/(height*height),2)
 print('身高{0}CM，体重{1}KG，BMI是{2}'.format(height,weight,bmi))
 if bmi<18.5:
-    print('过轻')
+    print('过轻，要增肥')
 elif bmi<25:
     print('正常')
 elif bmi<=28:
